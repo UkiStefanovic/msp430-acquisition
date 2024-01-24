@@ -25,7 +25,7 @@ This project is part of an embedded systems course focusing on the MSP430F5529LP
 
 1. Clone the repository.
 2. Open the project in Code Composer Studio.
-3. Connect your MSP430 LaunchPad and build/upload the code.
+3. Connect your MSP430F5529LP LaunchPad with the ETF Shield and download the code to device.
 
 ## Usage
 
